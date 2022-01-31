@@ -5,3 +5,7 @@ This line will be added
 This line from git_0_sm branch
 
 secound time txt added from git_0_sm
+
+this text will push directly to remote git_0_sm branch, testing.
+
+previous testing successful
